@@ -1,2 +1,2 @@
 # TEMA1-MN
-Algoritmul Means
+Algoritmul K-Means
